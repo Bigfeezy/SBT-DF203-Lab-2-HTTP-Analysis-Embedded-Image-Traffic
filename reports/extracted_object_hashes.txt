@@ -1,0 +1,4 @@
+a2143e21d1f93004f145684e87da19860f9dc4ccd6fb234c7b822aeeef97afdb  /var/www/html/lab_photo.jpg
+df8c73cf6bd614e7f204500ace411fe52f0ea6651be6b0241185e740a8f35d7d  exported/http_objects/favicon.ico
+7819657651ecd8c9da048b06489b9ba64ca70876c1dbf0c77d91403b9a07e0a5  exported/http_objects/image.html
+a2143e21d1f93004f145684e87da19860f9dc4ccd6fb234c7b822aeeef97afdb  exported/http_objects/lab_photo.jpg
